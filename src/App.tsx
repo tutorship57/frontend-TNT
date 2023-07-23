@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import About from './About.tsx'
 
-const data: string[] = ["a", "b", "c","z"];
+const data: string[] = ["a", "b", "c","z","0"];
 function App() {
   const [count, setCount] = useState(0);
   //const [count,setCount] = useState<string>("");
